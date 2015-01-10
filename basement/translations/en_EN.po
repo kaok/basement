@@ -1,0 +1,2391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Basement Framework\n"
+"POT-Creation-Date: 2014-12-08 20:35+0300\n"
+"PO-Revision-Date: 2014-12-08 20:35+0300\n"
+"Last-Translator: Maks Sherstobitow <maksim.sherstobitow@gmail.com>\n"
+"Language-Team: Aisconverse <maksim.sherstobitow@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: basement.php:183
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: basement.php:191
+msgid "Sorry, the page is not found."
+msgstr ""
+
+#: basement.php:224
+msgid "Features updated"
+msgstr ""
+
+#: draft/draft.php:22
+msgid "Image Class"
+msgstr ""
+
+#: modules/cpts/cpts.php:32
+msgid "Name"
+msgstr ""
+
+#: modules/cpts/cpts.php:32
+msgid "General name for the post type, usually plural"
+msgstr ""
+
+#: modules/cpts/cpts.php:33
+msgid "Singular name"
+msgstr ""
+
+#: modules/cpts/cpts.php:33
+msgid "Name for one object of this post type"
+msgstr ""
+
+#: modules/cpts/cpts.php:34
+msgid "Menu name"
+msgstr ""
+
+#: modules/cpts/cpts.php:34
+msgid "The menu name text. This string is the name to give menu items"
+msgstr ""
+
+#: modules/cpts/cpts.php:35
+msgid "Admin bar name"
+msgstr ""
+
+#: modules/cpts/cpts.php:35
+msgid "Name given for the Add New dropdown on admin bar"
+msgstr ""
+
+#: modules/cpts/cpts.php:36
+msgid "<b>All items</b> text"
+msgstr ""
+
+#: modules/cpts/cpts.php:36
+msgid "The all items text used in the menu"
+msgstr ""
+
+#: modules/cpts/cpts.php:37 modules/cpts/cpts.php:38 modules/cpts/cpts.php:202
+#: modules/cpts/cpts.php:203 modules/cpts/views/list.php:3
+msgid "Add new"
+msgstr ""
+
+#: modules/cpts/cpts.php:37
+msgid "<b>Add new</b> text"
+msgstr ""
+
+#: modules/cpts/cpts.php:37
+msgid "The add new text"
+msgstr ""
+
+#: modules/cpts/cpts.php:38
+msgid "<b>Add new item</b> text"
+msgstr ""
+
+#: modules/cpts/cpts.php:38
+msgid "The add new item text"
+msgstr ""
+
+#: modules/cpts/cpts.php:39 modules/cpts/cpts.php:204
+msgid "Edit item"
+msgstr ""
+
+#: modules/cpts/cpts.php:39
+msgid "<b>Edit item</b> text"
+msgstr ""
+
+#: modules/cpts/cpts.php:39
+msgid "The edit item text"
+msgstr ""
+
+#: modules/cpts/cpts.php:40 modules/cpts/cpts.php:205
+msgid "New item"
+msgstr ""
+
+#: modules/cpts/cpts.php:40
+msgid "<b>New item</b> text"
+msgstr ""
+
+#: modules/cpts/cpts.php:40
+msgid "The new item text"
+msgstr ""
+
+#: modules/cpts/cpts.php:41 modules/cpts/cpts.php:206
+msgid "View item"
+msgstr ""
+
+#: modules/cpts/cpts.php:41
+msgid "<b>View item</b> text"
+msgstr ""
+
+#: modules/cpts/cpts.php:41 modules/cpts/cpts.php:42 modules/cpts/cpts.php:45
+msgid "The view item text"
+msgstr ""
+
+#: modules/cpts/cpts.php:42 modules/cpts/cpts.php:207
+msgid "Search items"
+msgstr ""
+
+#: modules/cpts/cpts.php:42
+msgid "<b>Search items</b> text"
+msgstr ""
+
+#: modules/cpts/cpts.php:43 modules/cpts/cpts.php:208
+msgid "No items found"
+msgstr ""
+
+#: modules/cpts/cpts.php:43
+msgid "<b>Not found</b> text"
+msgstr ""
+
+#: modules/cpts/cpts.php:43
+msgid "The not found text"
+msgstr ""
+
+#: modules/cpts/cpts.php:44 modules/cpts/cpts.php:209
+msgid "No items found in Trash"
+msgstr ""
+
+#: modules/cpts/cpts.php:44
+msgid "<b>Not found in trash</b> text"
+msgstr ""
+
+#: modules/cpts/cpts.php:44
+msgid "The not found in trash text"
+msgstr ""
+
+#: modules/cpts/cpts.php:45 modules/cpts/cpts.php:210
+msgid "Parent Item"
+msgstr ""
+
+#: modules/cpts/cpts.php:45
+msgid "<b>Parent item colon</b> text"
+msgstr ""
+
+#: modules/cpts/cpts.php:97
+msgid "Custom post types"
+msgstr ""
+
+#: modules/cpts/cpts.php:367
+msgid "Sorry, the plugin can not write data to your server filesystem. "
+msgstr ""
+
+#: modules/cpts/type.php:106 modules/cpts/type/pricing.php:96
+msgid "Parameters"
+msgstr ""
+
+#: modules/cpts/type.php:163
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: modules/cpts/type/audio.php:14 modules/cpts/type/audio.php:29
+#: modules/cpts/type/audio.php:31 modules/cpts/type/audio.php:33
+#: modules/cpts/type/audio.php:34
+msgid "Audios"
+msgstr ""
+
+#: modules/cpts/type/audio.php:32 modules/shortcode/configs/shortcodes.php:126
+msgid "Audio"
+msgstr ""
+
+#: modules/cpts/type/audio.php:35
+msgid "All audios"
+msgstr ""
+
+#: modules/cpts/type/audio.php:36 modules/cpts/type/audio.php:37
+msgid "Add audio"
+msgstr ""
+
+#: modules/cpts/type/audio.php:38
+msgid "Edit audio"
+msgstr ""
+
+#: modules/cpts/type/audio.php:39
+msgid "New audio"
+msgstr ""
+
+#: modules/cpts/type/audio.php:40
+msgid "View audio"
+msgstr ""
+
+#: modules/cpts/type/audio.php:41
+msgid "Search audios"
+msgstr ""
+
+#: modules/cpts/type/audio.php:42
+msgid "Audios not found"
+msgstr ""
+
+#: modules/cpts/type/audio.php:43
+msgid "Audios not found in trash"
+msgstr ""
+
+#: modules/cpts/type/audio.php:71
+msgid "Audio file"
+msgstr ""
+
+#: modules/cpts/type/audio.php:85 modules/cpts/type/audio.php:87
+#: modules/cpts/type/audio.php:88
+msgid "Set audio"
+msgstr ""
+
+#: modules/cpts/type/audio.php:86
+msgid "Remove audio"
+msgstr ""
+
+#: modules/cpts/type/faq.php:13 modules/cpts/type/faq.php:28
+#: modules/cpts/type/faq.php:30 modules/cpts/type/faq.php:32
+#: modules/shortcode/configs/shortcodes.php:106
+msgid "FAQ"
+msgstr ""
+
+#: modules/cpts/type/faq.php:31 modules/cpts/type/pricing.php:31
+#: modules/cpts/type/story.php:31
+msgid "Story"
+msgstr ""
+
+#: modules/cpts/type/faq.php:33
+msgid "Questions"
+msgstr ""
+
+#: modules/cpts/type/faq.php:34
+msgid "All questions"
+msgstr ""
+
+#: modules/cpts/type/faq.php:35 modules/cpts/type/faq.php:36
+msgid "Add question"
+msgstr ""
+
+#: modules/cpts/type/faq.php:37
+msgid "Edit question"
+msgstr ""
+
+#: modules/cpts/type/faq.php:38
+msgid "New question"
+msgstr ""
+
+#: modules/cpts/type/faq.php:39
+msgid "View question"
+msgstr ""
+
+#: modules/cpts/type/faq.php:40
+msgid "Search questions"
+msgstr ""
+
+#: modules/cpts/type/faq.php:41
+msgid "Questions not found"
+msgstr ""
+
+#: modules/cpts/type/faq.php:42
+msgid "Questions not found in trash"
+msgstr ""
+
+#: modules/cpts/type/faq.php:55
+msgid "Letters"
+msgstr ""
+
+#: modules/cpts/type/faq.php:67
+msgid "Question letter"
+msgstr ""
+
+#: modules/cpts/type/faq.php:71
+msgid "Answer letter"
+msgstr ""
+
+#: modules/cpts/type/member.php:14 modules/cpts/type/member.php:29
+#: modules/cpts/type/member.php:31 modules/cpts/type/member.php:33
+#: modules/shortcode/configs/shortcodes.php:55
+msgid "Team"
+msgstr ""
+
+#: modules/cpts/type/member.php:32
+msgid "Member"
+msgstr ""
+
+#: modules/cpts/type/member.php:34
+msgid "Members"
+msgstr ""
+
+#: modules/cpts/type/member.php:35
+msgid "All members"
+msgstr ""
+
+#: modules/cpts/type/member.php:36 modules/cpts/type/member.php:37
+msgid "Add member"
+msgstr ""
+
+#: modules/cpts/type/member.php:38
+msgid "Edit member"
+msgstr ""
+
+#: modules/cpts/type/member.php:39
+msgid "New member"
+msgstr ""
+
+#: modules/cpts/type/member.php:40
+msgid "View member"
+msgstr ""
+
+#: modules/cpts/type/member.php:41
+msgid "Search members"
+msgstr ""
+
+#: modules/cpts/type/member.php:42
+msgid "Members not found"
+msgstr ""
+
+#: modules/cpts/type/member.php:43
+msgid "Members not found in trash"
+msgstr ""
+
+#: modules/cpts/type/member.php:57
+msgid "Details"
+msgstr ""
+
+#: modules/cpts/type/member.php:70 modules/form/input/background.php:165
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:242
+msgid "Position"
+msgstr ""
+
+#: modules/cpts/type/member.php:72
+msgid "Hover text"
+msgstr ""
+
+#: modules/cpts/type/member.php:79 modules/cpts/type/photo.php:32
+#: modules/cpts/type/photo.php:86
+msgid "Photo"
+msgstr ""
+
+#: modules/cpts/type/photo.php:14 modules/cpts/type/photo.php:29
+#: modules/cpts/type/photo.php:31 modules/cpts/type/photo.php:33
+#: modules/cpts/type/photo.php:34
+msgid "Photos"
+msgstr ""
+
+#: modules/cpts/type/photo.php:35
+msgid "All photos"
+msgstr ""
+
+#: modules/cpts/type/photo.php:36 modules/cpts/type/photo.php:37
+msgid "Add photo"
+msgstr ""
+
+#: modules/cpts/type/photo.php:38
+msgid "Edit photo"
+msgstr ""
+
+#: modules/cpts/type/photo.php:39
+msgid "New photo"
+msgstr ""
+
+#: modules/cpts/type/photo.php:40
+msgid "View photo"
+msgstr ""
+
+#: modules/cpts/type/photo.php:41 modules/cpts/type/slide.php:41
+msgid "Search orojects"
+msgstr ""
+
+#: modules/cpts/type/photo.php:42
+msgid "Photos not found"
+msgstr ""
+
+#: modules/cpts/type/photo.php:43
+msgid "Photos not found in trash"
+msgstr ""
+
+#: modules/cpts/type/photo.php:57 modules/cpts/type/video.php:80
+msgid "Preview"
+msgstr ""
+
+#: modules/cpts/type/photo.php:72 modules/cpts/type/photo.php:74
+#: modules/cpts/type/photo.php:75
+msgid "Set photo preview"
+msgstr ""
+
+#: modules/cpts/type/photo.php:73
+msgid "Remove photo preview"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:13 modules/cpts/type/pricing.php:28
+#: modules/cpts/type/pricing.php:30 modules/cpts/type/pricing.php:32
+msgid "Pricing"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:33
+msgid "Pricings"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:34
+msgid "All pricings"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:35 modules/cpts/type/pricing.php:36
+msgid "Add pricing"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:37
+msgid "Edit pricing"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:38
+msgid "New pricing"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:39
+msgid "View pricing"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:40
+msgid "Search pricings"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:41
+msgid "Pricings not found"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:42
+msgid "Pricings not found in trash"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:58
+msgid "Pricings periods"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:59
+msgid "Pricing perios"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:60 modules/cpts/type/pricing.php:61
+msgid "Periods"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:62
+msgid "New pricing perios"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:63
+msgid "Add pricing perios"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:64
+msgid "Edit perios"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:65
+msgid "Update perios"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:66
+msgid "Search pricing periods"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:67
+msgid "Add or remove perios"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:68
+msgid "Choose from the most used periods"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:114
+msgid "Cost"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:116
+msgid "Cost sign"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:118
+msgid "Period"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:120
+msgid "Bottom text"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:127
+msgid "Special"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:129
+msgid "Special text"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:180 modules/cpts/views/edit.php:34
+#: modules/cpts/views/edit.php:91 modules/cpts/views/edit.php:117
+#: modules/cpts/views/edit.php:143 modules/cpts/views/edit.php:171
+#: modules/cpts/views/edit.php:199 modules/cpts/views/edit.php:227
+#: modules/cpts/views/edit.php:274 modules/cpts/views/edit.php:529
+#: modules/cpts/views/edit.php:581 modules/cpts/views/edit.php:609
+#: modules/cpts/views/edit.php:634 modules/cpts/views/edit.php:655
+#: modules/cpts/views/edit.php:673 modules/cpts/views/edit.php:696
+#: modules/cpts/views/edit.php:728
+msgid "Yes"
+msgstr ""
+
+#: modules/cpts/type/pricing.php:180
+msgid "No"
+msgstr ""
+
+#: modules/cpts/type/project.php:14 modules/cpts/type/project.php:29
+#: modules/cpts/type/project.php:31 modules/cpts/type/project.php:33
+#: modules/cpts/type/project.php:34
+msgid "Projects"
+msgstr ""
+
+#: modules/cpts/type/project.php:32
+msgid "Project"
+msgstr ""
+
+#: modules/cpts/type/project.php:35
+msgid "All projects"
+msgstr ""
+
+#: modules/cpts/type/project.php:36 modules/cpts/type/project.php:37
+msgid "Add project"
+msgstr ""
+
+#: modules/cpts/type/project.php:38
+msgid "Edit project"
+msgstr ""
+
+#: modules/cpts/type/project.php:39
+msgid "New project"
+msgstr ""
+
+#: modules/cpts/type/project.php:40
+msgid "View project"
+msgstr ""
+
+#: modules/cpts/type/project.php:41
+msgid "Search photos"
+msgstr ""
+
+#: modules/cpts/type/project.php:42
+msgid "Projects not found"
+msgstr ""
+
+#: modules/cpts/type/project.php:43
+msgid "Projects not found in trash"
+msgstr ""
+
+#: modules/cpts/type/project.php:59
+msgid "Projects categories"
+msgstr ""
+
+#: modules/cpts/type/project.php:60
+msgid "Project category"
+msgstr ""
+
+#: modules/cpts/type/project.php:61 modules/cpts/type/project.php:62
+msgid "Categories"
+msgstr ""
+
+#: modules/cpts/type/project.php:63
+msgid "New project category"
+msgstr ""
+
+#: modules/cpts/type/project.php:64
+msgid "Add project category"
+msgstr ""
+
+#: modules/cpts/type/project.php:65
+msgid "Edit category"
+msgstr ""
+
+#: modules/cpts/type/project.php:66
+msgid "Update category"
+msgstr ""
+
+#: modules/cpts/type/project.php:67
+msgid "Search project categories"
+msgstr ""
+
+#: modules/cpts/type/project.php:68
+msgid "Add or remove category"
+msgstr ""
+
+#: modules/cpts/type/project.php:69
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: modules/cpts/type/slide.php:14 modules/cpts/type/slide.php:29
+#: modules/cpts/type/slide.php:31 modules/cpts/type/slide.php:33
+#: modules/cpts/type/slide.php:34
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:324
+msgid "Slides"
+msgstr ""
+
+#: modules/cpts/type/slide.php:32
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:23
+#: modules/shortcode/collection/carousel/caroufredsel/content/content.php:78
+msgid "Slide"
+msgstr ""
+
+#: modules/cpts/type/slide.php:35
+msgid "All slides"
+msgstr ""
+
+#: modules/cpts/type/slide.php:36 modules/cpts/type/slide.php:37
+msgid "Add slide"
+msgstr ""
+
+#: modules/cpts/type/slide.php:38
+msgid "Edit slide"
+msgstr ""
+
+#: modules/cpts/type/slide.php:39
+msgid "New slide"
+msgstr ""
+
+#: modules/cpts/type/slide.php:40
+msgid "View slide"
+msgstr ""
+
+#: modules/cpts/type/slide.php:42
+msgid "Slides not found"
+msgstr ""
+
+#: modules/cpts/type/slide.php:43
+msgid "Slides not found in trash"
+msgstr ""
+
+#: modules/cpts/type/slide.php:55
+msgid "Slide config"
+msgstr ""
+
+#: modules/cpts/type/slide.php:72 modules/cpts/views/edit.php:807
+msgid "Content"
+msgstr ""
+
+#: modules/cpts/type/slide.php:73
+msgid "Overlay"
+msgstr ""
+
+#: modules/cpts/type/slide.php:74
+msgid "Hover"
+msgstr ""
+
+#: modules/cpts/type/slide.php:75 modules/cpts/type/video.php:57
+#: modules/shortcode/collection/button/button.php:26
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:200
+#: modules/shortcode/collection/link/link.php:18
+#: modules/shortcode/configs/shortcodes.php:20
+msgid "Link"
+msgstr ""
+
+#: modules/cpts/type/slide.php:120 modules/cpts/type/slide.php:145
+#: modules/cpts/type/slide.php:171
+#: modules/shortcode/collection/bootstrap/grid/container.php:32
+msgid "Background color"
+msgstr ""
+
+#: modules/cpts/type/slide.php:187
+msgid "Slide link"
+msgstr ""
+
+#: modules/cpts/type/slide.php:196
+msgid "Link title"
+msgstr ""
+
+#: modules/cpts/type/story.php:13 modules/cpts/type/story.php:28
+#: modules/cpts/type/story.php:30 modules/cpts/type/story.php:32
+msgid "Chronology"
+msgstr ""
+
+#: modules/cpts/type/story.php:33
+msgid "Stories"
+msgstr ""
+
+#: modules/cpts/type/story.php:34
+msgid "All stories"
+msgstr ""
+
+#: modules/cpts/type/story.php:35 modules/cpts/type/story.php:36
+msgid "Add story"
+msgstr ""
+
+#: modules/cpts/type/story.php:37
+msgid "Edit story"
+msgstr ""
+
+#: modules/cpts/type/story.php:38
+msgid "New story"
+msgstr ""
+
+#: modules/cpts/type/story.php:39
+msgid "View story"
+msgstr ""
+
+#: modules/cpts/type/story.php:40
+msgid "Search stories"
+msgstr ""
+
+#: modules/cpts/type/story.php:41
+msgid "Stories not found"
+msgstr ""
+
+#: modules/cpts/type/story.php:42
+msgid "Stories not found in trash"
+msgstr ""
+
+#: modules/cpts/type/video.php:14 modules/cpts/type/video.php:29
+#: modules/cpts/type/video.php:31 modules/cpts/type/video.php:33
+#: modules/cpts/type/video.php:34
+msgid "Videos"
+msgstr ""
+
+#: modules/cpts/type/video.php:32
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:212
+#: modules/shortcode/configs/shortcodes.php:121
+msgid "Video"
+msgstr ""
+
+#: modules/cpts/type/video.php:35
+msgid "All videos"
+msgstr ""
+
+#: modules/cpts/type/video.php:36 modules/cpts/type/video.php:37
+msgid "Add video"
+msgstr ""
+
+#: modules/cpts/type/video.php:38
+msgid "Edit video"
+msgstr ""
+
+#: modules/cpts/type/video.php:39
+msgid "New video"
+msgstr ""
+
+#: modules/cpts/type/video.php:40
+msgid "View video"
+msgstr ""
+
+#: modules/cpts/type/video.php:41
+msgid "Search videos"
+msgstr ""
+
+#: modules/cpts/type/video.php:42
+msgid "Videos not found"
+msgstr ""
+
+#: modules/cpts/type/video.php:43
+msgid "Videos not found in trash"
+msgstr ""
+
+#: modules/cpts/views/edit.php:5
+msgid "Create Custom Post Type"
+msgstr ""
+
+#: modules/cpts/views/edit.php:7
+msgid "Edit Custom Post Type"
+msgstr ""
+
+#: modules/cpts/views/edit.php:7
+msgid "will be deleted"
+msgstr ""
+
+#: modules/cpts/views/edit.php:21
+msgid "Enabled"
+msgstr ""
+
+#: modules/cpts/views/edit.php:37
+msgid "Set <b>Yes</b> to enable this custom post type in your theme"
+msgstr ""
+
+#: modules/cpts/views/edit.php:43
+msgid "Options"
+msgstr ""
+
+#: modules/cpts/views/edit.php:50 modules/cpts/views/list.php:9
+#: modules/cpts/views/list.php:19
+msgid "Post Type"
+msgstr ""
+
+#: modules/cpts/views/edit.php:53
+msgid "max. 20 characters, can not contain capital letters or spaces"
+msgstr ""
+
+#: modules/cpts/views/edit.php:64 modules/cpts/views/list.php:12
+#: modules/cpts/views/list.php:22 modules/seo/seo.php:66
+msgid "Description"
+msgstr ""
+
+#: modules/cpts/views/edit.php:67
+msgid "A short descriptive summary of what the post type is"
+msgstr ""
+
+#: modules/cpts/views/edit.php:78
+msgid "Public"
+msgstr ""
+
+#: modules/cpts/views/edit.php:93
+msgid ""
+"Whether a post type is intended to be used publicly either via the admin "
+"interface or by front-end users"
+msgstr ""
+
+#: modules/cpts/views/edit.php:104
+msgid "Exclude From Search"
+msgstr ""
+
+#: modules/cpts/views/edit.php:119
+msgid ""
+"Whether to exclude posts with this post type from front end search results"
+msgstr ""
+
+#: modules/cpts/views/edit.php:130
+msgid "Publicly Queryable"
+msgstr ""
+
+#: modules/cpts/views/edit.php:146
+msgid ""
+"Whether queries can be performed on the front end. If you set this to <b>No</"
+"b>, you will find that you cannot preview/see your custom post (return 404)"
+msgstr ""
+
+#: modules/cpts/views/edit.php:158
+msgid "Show UI"
+msgstr ""
+
+#: modules/cpts/views/edit.php:174
+msgid ""
+"Whether to generate a default UI for managing this post type in the admin"
+msgstr ""
+
+#: modules/cpts/views/edit.php:186
+msgid "Show In Nav Menus"
+msgstr ""
+
+#: modules/cpts/views/edit.php:202
+msgid "Whether post type is available for selection in navigation menus"
+msgstr ""
+
+#: modules/cpts/views/edit.php:214
+msgid "Show In Menu"
+msgstr ""
+
+#: modules/cpts/views/edit.php:236
+msgid "Place as submenu"
+msgstr ""
+
+#: modules/cpts/views/edit.php:239
+msgid "Do not use"
+msgstr ""
+
+#: modules/cpts/views/edit.php:249
+msgid ""
+"Where to show the post type in the admin menu. <b>Show UI</b> must be "
+"<b>Yes</b>"
+msgstr ""
+
+#: modules/cpts/views/edit.php:261
+msgid "Show In Admin Bar"
+msgstr ""
+
+#: modules/cpts/views/edit.php:277
+msgid "Whether to make this post type available in the WordPress admin bar"
+msgstr ""
+
+#: modules/cpts/views/edit.php:289
+msgid "Menu Position"
+msgstr ""
+
+#: modules/cpts/views/edit.php:292
+msgid "none"
+msgstr ""
+
+#: modules/cpts/views/edit.php:293
+msgid "below Posts"
+msgstr ""
+
+#: modules/cpts/views/edit.php:294
+msgid "below Media"
+msgstr ""
+
+#: modules/cpts/views/edit.php:295
+msgid "below Links"
+msgstr ""
+
+#: modules/cpts/views/edit.php:296
+msgid "below Pages"
+msgstr ""
+
+#: modules/cpts/views/edit.php:297
+msgid "below comments"
+msgstr ""
+
+#: modules/cpts/views/edit.php:298
+msgid "below first separator"
+msgstr ""
+
+#: modules/cpts/views/edit.php:299
+msgid "below Plugins"
+msgstr ""
+
+#: modules/cpts/views/edit.php:300
+msgid "below Users"
+msgstr ""
+
+#: modules/cpts/views/edit.php:301
+msgid "below Tools"
+msgstr ""
+
+#: modules/cpts/views/edit.php:302
+msgid "below Settings"
+msgstr ""
+
+#: modules/cpts/views/edit.php:303
+msgid "below second separator "
+msgstr ""
+
+#: modules/cpts/views/edit.php:306
+msgid ""
+"The position in the menu order the post type should appear. <b>Show in menu</"
+"b> must be <b>Yes</b>"
+msgstr ""
+
+#: modules/cpts/views/edit.php:490
+msgid "Menu Icon"
+msgstr ""
+
+#: modules/cpts/views/edit.php:493
+msgid "Default"
+msgstr ""
+
+#: modules/cpts/views/edit.php:505
+msgid "The icon to be used for this menu"
+msgstr ""
+
+#: modules/cpts/views/edit.php:516
+msgid "Hierarchical"
+msgstr ""
+
+#: modules/cpts/views/edit.php:531
+msgid ""
+"Whether the post type is hierarchical (e.g. page). Allows Parent to be "
+"specified. The <b>supports</b> parameter should contain <b>page-attributes</"
+"b> to show the parent select box on the editor page."
+msgstr ""
+
+#: modules/cpts/views/edit.php:542
+msgid "Taxonomies"
+msgstr ""
+
+#: modules/cpts/views/edit.php:557
+msgid ""
+"An array of registered taxonomies like <b>category</b> or <b>post_tag</b> "
+"that will be used with this post type"
+msgstr ""
+
+#: modules/cpts/views/edit.php:568
+msgid "Has Archive"
+msgstr ""
+
+#: modules/cpts/views/edit.php:584
+msgid "Enables post type archives"
+msgstr ""
+
+#: modules/cpts/views/edit.php:596
+msgid "Rewrite"
+msgstr ""
+
+#: modules/cpts/views/edit.php:611
+msgid ""
+"Triggers the handling of rewrites for this post type. To prevent rewrites, "
+"set to false"
+msgstr ""
+
+#: modules/cpts/views/edit.php:616
+msgid "Slug"
+msgstr ""
+
+#: modules/cpts/views/edit.php:618
+msgid ""
+"Customize the permastruct slug. Defaults to the post type value. Should be "
+"translatable. Enter value in main language and translate other languages "
+"with <b>.po</b> files"
+msgstr ""
+
+#: modules/cpts/views/edit.php:619
+msgid "With Front"
+msgstr ""
+
+#: modules/cpts/views/edit.php:637
+msgid ""
+"Should the permastruct be prepended with the front base. (example: if your "
+"permalink structure is <b>/blog/</b>, then your links will be: <b>false->/"
+"news/</b>, <b>true->/blog/news/</b>)"
+msgstr ""
+
+#: modules/cpts/views/edit.php:640
+msgid "Feeds"
+msgstr ""
+
+#: modules/cpts/views/edit.php:657
+msgid "Should a feed permastruct be built for this post type"
+msgstr ""
+
+#: modules/cpts/views/edit.php:658
+msgid "Pages"
+msgstr ""
+
+#: modules/cpts/views/edit.php:675
+msgid "Should the permastruct provide for pagination"
+msgstr ""
+
+#: modules/cpts/views/edit.php:686
+msgid "Query Var"
+msgstr ""
+
+#: modules/cpts/views/edit.php:698
+msgid "Sets the <b>query_var</b> key for this post type"
+msgstr ""
+
+#: modules/cpts/views/edit.php:703
+msgid "Parameter (optional)"
+msgstr ""
+
+#: modules/cpts/views/edit.php:715
+msgid "Can Export"
+msgstr ""
+
+#: modules/cpts/views/edit.php:731
+msgid "Can this post type be exported"
+msgstr ""
+
+#: modules/cpts/views/edit.php:743
+msgid "Capability Type"
+msgstr ""
+
+#: modules/cpts/views/edit.php:746
+msgid ""
+"Capability Type parameter gives you global control over the capabilities"
+msgstr ""
+
+#: modules/cpts/views/edit.php:752
+msgid "Capabilities"
+msgstr ""
+
+#: modules/cpts/views/edit.php:769
+msgid "Labels"
+msgstr ""
+
+#: modules/cpts/views/edit.php:775
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:187
+msgid "Label"
+msgstr ""
+
+#: modules/cpts/views/edit.php:778
+msgid "A plural descriptive name for the post type marked for translation"
+msgstr ""
+
+#: modules/cpts/views/edit.php:806 modules/form/input/audio.php:29
+#: modules/widgets/collection/latest/tiles/tiles.php:91
+#: modules/widgets/collection/text/text.php:49
+msgid "Title"
+msgstr ""
+
+#: modules/cpts/views/edit.php:807
+msgid "Editor"
+msgstr ""
+
+#: modules/cpts/views/edit.php:808
+#: modules/shortcode/collection/quote/quote.php:25
+msgid "Author"
+msgstr ""
+
+#: modules/cpts/views/edit.php:809
+msgid "Thumbnail"
+msgstr ""
+
+#: modules/cpts/views/edit.php:809
+msgid "Featured image, current theme must also support post-thumbnails"
+msgstr ""
+
+#: modules/cpts/views/edit.php:810
+msgid "Excerpts"
+msgstr ""
+
+#: modules/cpts/views/edit.php:811
+msgid "Trackbacks"
+msgstr ""
+
+#: modules/cpts/views/edit.php:812
+msgid "Custom Fields"
+msgstr ""
+
+#: modules/cpts/views/edit.php:813
+msgid "Comments"
+msgstr ""
+
+#: modules/cpts/views/edit.php:813
+msgid "Also will see comment count balloon on edit screen"
+msgstr ""
+
+#: modules/cpts/views/edit.php:814
+msgid "Revisions"
+msgstr ""
+
+#: modules/cpts/views/edit.php:814
+msgid "Will store revisions"
+msgstr ""
+
+#: modules/cpts/views/edit.php:815
+msgid "Page Attributes"
+msgstr ""
+
+#: modules/cpts/views/edit.php:815
+msgid "Menu order, hierarchical must be true to show Parent option"
+msgstr ""
+
+#: modules/cpts/views/edit.php:816 modules/cpts/views/edit.php:846
+msgid "Post Formats"
+msgstr ""
+
+#: modules/cpts/views/edit.php:816
+msgid ""
+"Add post formats. You can choose post formats separately to each custom post "
+"type if you install and active <b>Toolset Features</b> plugin"
+msgstr ""
+
+#: modules/cpts/views/edit.php:821
+msgid "Supports"
+msgstr ""
+
+#: modules/cpts/views/edit.php:838
+msgid "Features for current custom post type"
+msgstr ""
+
+#: modules/cpts/views/edit.php:875 modules/cpts/views/edit.php:878
+msgid "Book updated"
+msgstr ""
+
+#: modules/cpts/views/edit.php:876
+msgid "Custom field updated"
+msgstr ""
+
+#: modules/cpts/views/edit.php:877
+msgid "Custom field deleted"
+msgstr ""
+
+#: modules/cpts/views/edit.php:879
+#, php-format
+msgid "Book restored to revision from %s"
+msgstr ""
+
+#: modules/cpts/views/edit.php:880
+msgid "Book published"
+msgstr ""
+
+#: modules/cpts/views/edit.php:881
+msgid "Book saved"
+msgstr ""
+
+#: modules/cpts/views/edit.php:882
+msgid "Book submitted"
+msgstr ""
+
+#: modules/cpts/views/edit.php:883
+#, php-format
+msgid "Book scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: modules/cpts/views/edit.php:884
+msgid "Book draft updated."
+msgstr ""
+
+#: modules/cpts/views/edit.php:890
+msgid "Messages"
+msgstr ""
+
+#: modules/cpts/views/edit.php:898
+msgid "For example:"
+msgstr ""
+
+#: modules/cpts/views/edit.php:912
+msgid "Delete custom post type"
+msgstr ""
+
+#: modules/cpts/views/edit.php:916
+msgid "Set checked to delete this custom post type on save"
+msgstr ""
+
+#: modules/cpts/views/list.php:34
+msgid "Edit"
+msgstr ""
+
+#: modules/form/form.php:138 modules/form/input/input.php:63
+msgid "Input config is broken"
+msgstr ""
+
+#: modules/form/input/audio.php:23
+msgid "Artist"
+msgstr ""
+
+#: modules/form/input/audio.php:26
+msgid "Album"
+msgstr ""
+
+#: modules/form/input/audio.php:74
+msgid "Choose audio"
+msgstr ""
+
+#: modules/form/input/audio.php:78
+msgid "Delete audio"
+msgstr ""
+
+#: modules/form/input/background.php:11
+msgid "Background input config is broken"
+msgstr ""
+
+#: modules/form/input/background.php:20
+msgid "Background Image"
+msgstr ""
+
+#: modules/form/input/background.php:51
+msgid "Choose Image"
+msgstr ""
+
+#: modules/form/input/background.php:62
+msgid "Delete Image"
+msgstr ""
+
+#: modules/form/input/background.php:77
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:223
+#: modules/shortcode/collection/counter/counter.php:52
+#: modules/shortcode/collection/icon/aisconverse.php:52
+#: modules/shortcode/collection/icon/fontawesome.php:50
+msgid "Color"
+msgstr ""
+
+#: modules/form/input/background.php:91
+msgid "Opacity"
+msgstr ""
+
+#: modules/form/input/background.php:107
+msgid "Repeat"
+msgstr ""
+
+#: modules/form/input/background.php:113
+msgid "Do not repeat"
+msgstr ""
+
+#: modules/form/input/background.php:114
+msgid "Tile"
+msgstr ""
+
+#: modules/form/input/background.php:115
+msgid "Tile horizontally"
+msgstr ""
+
+#: modules/form/input/background.php:116
+msgid "Tile vertically"
+msgstr ""
+
+#: modules/form/input/background.php:137
+msgid "Attachment"
+msgstr ""
+
+#: modules/form/input/background.php:143
+msgid "Scroll"
+msgstr ""
+
+#: modules/form/input/background.php:144
+msgid "Fixed"
+msgstr ""
+
+#: modules/form/input/background.php:171
+msgid "Left & top"
+msgstr ""
+
+#: modules/form/input/background.php:172
+msgid "Left & center"
+msgstr ""
+
+#: modules/form/input/background.php:173
+msgid "Left & bottom"
+msgstr ""
+
+#: modules/form/input/background.php:174
+msgid "Center & top"
+msgstr ""
+
+#: modules/form/input/background.php:175
+msgid "Center & center"
+msgstr ""
+
+#: modules/form/input/background.php:176
+msgid "Center & bottom"
+msgstr ""
+
+#: modules/form/input/background.php:177
+msgid "Right & top"
+msgstr ""
+
+#: modules/form/input/background.php:178
+msgid "Right & center"
+msgstr ""
+
+#: modules/form/input/background.php:179
+msgid "Right & bottom"
+msgstr ""
+
+#: modules/form/input/background.php:200
+msgid "Size"
+msgstr ""
+
+#: modules/form/input/background.php:206
+msgid "Auto"
+msgstr ""
+
+#: modules/form/input/background.php:207
+msgid "Cover"
+msgstr ""
+
+#: modules/form/input/background.php:208
+msgid "Contain"
+msgstr ""
+
+#: modules/form/input/checkbox/checkbox.php:10
+#: modules/form/input/radio/radio.php:10
+msgid "Checkbox input config is broken"
+msgstr ""
+
+#: modules/form/input/checkbox/group.php:10
+msgid "Checkboxes group config is broken"
+msgstr ""
+
+#: modules/form/input/checkbox/icon/group.php:10
+msgid "Checkboxes icons config is broken"
+msgstr ""
+
+#: modules/form/input/checkbox/icon/icon.php:10
+msgid "Checkboxes icon config is broken"
+msgstr ""
+
+#: modules/form/input/checkbox/post/list/sortable.php:10
+msgid "Sortable posts list checboxes config is broken"
+msgstr ""
+
+#: modules/form/input/checkbox/post/list/sortable.php:43
+msgid "Drag'n'drop to change order"
+msgstr ""
+
+#: modules/form/input/checkbox/post/list/sortable.php:63
+msgid "Click to select/deselect"
+msgstr ""
+
+#: modules/form/input/checkbox/post/list/sortable.php:92
+#: modules/form/input/radio/post/list.php:87
+msgid "Will be opened in new tab"
+msgstr ""
+
+#: modules/form/input/codeeditor.php:10
+msgid "Code editor config is broken"
+msgstr ""
+
+#: modules/form/input/colorpicker.php:10
+msgid "Color picker group config is broken"
+msgstr ""
+
+#: modules/form/input/editor.php:10
+msgid "Editor config is broken"
+msgstr ""
+
+#: modules/form/input/image.php:61
+msgid "Choose image"
+msgstr ""
+
+#: modules/form/input/image.php:65
+msgid "Delete image"
+msgstr ""
+
+#: modules/form/input/media/button/delete.php:13
+msgid "Delete"
+msgstr ""
+
+#: modules/form/input/media/button/upload.php:13
+msgid "Upload"
+msgstr ""
+
+#: modules/form/input/radio/group.php:10
+msgid "Radios group config is broken"
+msgstr ""
+
+#: modules/form/input/radio/icon/group.php:10
+msgid "Radios icons group config is broken"
+msgstr ""
+
+#: modules/form/input/radio/icon/icon.php:10
+msgid "Radios icons config is broken"
+msgstr ""
+
+#: modules/form/input/radio/post/list.php:10
+msgid "Posts list radios config is broken"
+msgstr ""
+
+#: modules/form/input/radio/post/list.php:58
+msgid "Click to select"
+msgstr ""
+
+#: modules/form/input/select.php:10
+msgid "Select group config is broken"
+msgstr ""
+
+#: modules/form/input/textarea.php:10
+msgid "Textarea config is broken"
+msgstr ""
+
+#: modules/seo/seo.php:42 modules/seo/seo.php:54
+msgid "SEO"
+msgstr ""
+
+#: modules/seo/seo.php:58
+msgid "Keywords"
+msgstr ""
+
+#: modules/settings/theme.php:25 modules/settings/theme.php:26
+msgid "Theme Settings"
+msgstr ""
+
+#: modules/settings/theme.php:39
+msgid "Theme settings"
+msgstr ""
+
+#: modules/shortcode/collection/audio/audio.php:11
+#: modules/shortcode/collection/authors/authors.php:21
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:273
+#: modules/shortcode/collection/chronology/years.php:43
+#: modules/shortcode/collection/faq/faq.php:9
+#: modules/shortcode/collection/gallery/gallery.php:24
+#: modules/shortcode/collection/post/tiles.php:16
+#: modules/shortcode/collection/pricing/table.php:28
+#: modules/shortcode/collection/team/team.php:13
+#: modules/shortcode/collection/video/video.php:11
+#, php-format
+msgid "\"%s\" post type is not registered"
+msgstr ""
+
+#: modules/shortcode/collection/authors/authors.php:12
+msgid "Common link"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:23
+msgid "Text align"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:26
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:162
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:263
+msgid "Left"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:27
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:161
+msgid "Center"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:28
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:160
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:262
+msgid "Right"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:37
+msgid "Screen < 768px"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:38
+msgid "Screen ≥ 768px"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:39
+msgid "Screen ≥ 992px"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:40
+msgid "Screen ≥ 1200px"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:45
+msgid "Don't use width"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:46
+msgid "Width 1"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:47
+msgid "Width 2"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:48
+msgid "Width 3"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:49
+msgid "Width 4"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:50
+msgid "Width 5"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:51
+msgid "Width 6"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:52
+msgid "Width 7"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:53
+msgid "Width 8"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:54
+msgid "Width 9"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:55
+msgid "Width 10"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:56
+msgid "Width 11"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:57
+msgid "Width 12"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:60
+msgid "Don't use offset"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:61
+msgid "Offset 1"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:62
+msgid "Offset 2"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:63
+msgid "Offset 3"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:64
+msgid "Offset 4"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:65
+msgid "Offset 5"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:66
+msgid "Offset 6"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:67
+msgid "Offset 7"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:68
+msgid "Offset 8"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:69
+msgid "Offset 9"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:70
+msgid "Offset 10"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:71
+msgid "Offset 11"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:72
+msgid "Offset 12"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:75
+msgid "Don't use push"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:76
+msgid "Push 1"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:77
+msgid "Push 2"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:78
+msgid "Push 3"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:79
+msgid "Push 4"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:80
+msgid "Push 5"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:81
+msgid "Push 6"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:82
+msgid "Push 7"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:83
+msgid "Push 8"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:84
+msgid "Push 9"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:85
+msgid "Push 10"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:86
+msgid "Push 11"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:87
+msgid "Push 12"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:90
+msgid "Don't use pull"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:91
+msgid "Pull 1"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:92
+msgid "Pull 2"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:93
+msgid "Pull 3"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:94
+msgid "Pull 4"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:95
+msgid "Pull 5"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:96
+msgid "Pull 6"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:97
+msgid "Pull 7"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:98
+msgid "Pull 8"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:99
+msgid "Pull 9"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:100
+msgid "Pull 10"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:101
+msgid "Pull 11"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:102
+msgid "Pull 12"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:129
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:115
+#: modules/shortcode/collection/map/google.php:41
+#: modules/shortcode/collection/separator/separator.php:10
+msgid "Height"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/col.php:137
+msgid "Top offset"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/container.php:12
+msgid "Use full-width fluid container"
+msgstr ""
+
+#: modules/shortcode/collection/bootstrap/grid/container.php:22
+msgid "Centrize text in a row"
+msgstr ""
+
+#: modules/shortcode/collection/button/button.php:18
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:130
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:192
+#: modules/shortcode/collection/header/header.php:12
+#: modules/shortcode/collection/link/link.php:10
+#: modules/shortcode/collection/quote/quote.php:17
+#: modules/widgets/collection/text/text.php:83
+msgid "Text"
+msgstr ""
+
+#: modules/shortcode/collection/button/button.php:38
+msgid "Style"
+msgstr ""
+
+#: modules/shortcode/collection/button/button.php:41
+msgid "Solid color button"
+msgstr ""
+
+#: modules/shortcode/collection/button/button.php:42
+msgid "Border transparent button"
+msgstr ""
+
+#: modules/shortcode/collection/button/button.php:54
+msgid "Main color"
+msgstr ""
+
+#: modules/shortcode/collection/button/button.php:64
+msgid "Main color hover"
+msgstr ""
+
+#: modules/shortcode/collection/button/button.php:74
+msgid "Text color"
+msgstr ""
+
+#: modules/shortcode/collection/button/button.php:84
+msgid "Text color hover"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:18
+#: modules/shortcode/collection/carousel/caroufredsel/content/content.php:73
+msgid "Effect"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:21
+#: modules/shortcode/collection/carousel/caroufredsel/content/content.php:76
+msgid "Crossfade"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:22
+#: modules/shortcode/collection/carousel/caroufredsel/content/content.php:77
+msgid "Directscroll"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:24
+#: modules/shortcode/collection/carousel/caroufredsel/content/content.php:79
+msgid "Fade"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:39
+msgid "Fullwidth"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:49
+#: modules/shortcode/collection/carousel/caroufredsel/content/content.php:48
+msgid "Use arrows"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:59
+#: modules/shortcode/collection/carousel/caroufredsel/content/content.php:61
+msgid "Use dots"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:70
+msgid "Use logos style"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:87
+msgid "Minimum slides to show"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:99
+msgid "Maximum slides to show"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:125
+#: modules/shortcode/collection/carousel/caroufredsel/content/content.php:24
+#: modules/shortcode/collection/chronology/years.php:11
+#: modules/shortcode/configs/shortcodes.php:45
+msgid "Header"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:138
+msgid "Header color"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:146
+msgid "Header size"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:157
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:259
+msgid "Align"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:173
+msgid "Offsets"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:178
+msgid "Slides top offset"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:208
+msgid "Link type"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:211
+msgid "Regular"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:213
+msgid ""
+"Images gallery (fill \"Link\" field with links to mediafiles; separate with "
+"commas)"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:231
+msgid "Hover color"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:245
+msgid "Bottom"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/caroufredsel.php:246
+msgid "Top"
+msgstr ""
+
+#: modules/shortcode/collection/carousel/caroufredsel/content/content.php:35
+msgid "Show counter"
+msgstr ""
+
+#: modules/shortcode/collection/chronology/years.php:19
+msgid "Sub-header"
+msgstr ""
+
+#: modules/shortcode/collection/chronology/years.php:27
+msgid "Use separator"
+msgstr ""
+
+#: modules/shortcode/collection/chronology/years.php:38
+#: modules/shortcode/collection/gallery/gallery.php:14
+msgid "Post type is not defined in shortcode config"
+msgstr ""
+
+#: modules/shortcode/collection/contact/form7.php:11
+msgid "Contact Form 7 is not enabled"
+msgstr ""
+
+#: modules/shortcode/collection/contact/form7.php:33
+msgid "Forms"
+msgstr ""
+
+#: modules/shortcode/collection/counter/counter.php:10
+msgid "Start"
+msgstr ""
+
+#: modules/shortcode/collection/counter/counter.php:19
+msgid "Digit"
+msgstr ""
+
+#: modules/shortcode/collection/counter/counter.php:28
+msgid "Increment"
+msgstr ""
+
+#: modules/shortcode/collection/counter/counter.php:36
+msgid "Sign"
+msgstr ""
+
+#: modules/shortcode/collection/counter/counter.php:44
+msgid "Font size"
+msgstr ""
+
+#: modules/shortcode/collection/icon/aisconverse.php:28
+#: modules/shortcode/collection/icon/fontawesome.php:26
+msgid "Icons"
+msgstr ""
+
+#: modules/shortcode/collection/icon/aisconverse.php:43
+#: modules/shortcode/collection/icon/fontawesome.php:41
+msgid "Size in pixels"
+msgstr ""
+
+#: modules/shortcode/collection/image/featured.php:9
+msgid "Make image circle"
+msgstr ""
+
+#: modules/shortcode/collection/link/link.php:26
+msgid "Link to email"
+msgstr ""
+
+#: modules/shortcode/collection/link/link.php:35
+msgid "Open in new window"
+msgstr ""
+
+#: modules/shortcode/collection/map/google.php:11
+msgid "Latitude"
+msgstr ""
+
+#: modules/shortcode/collection/map/google.php:19
+msgid "Longitude"
+msgstr ""
+
+#: modules/shortcode/collection/map/google.php:25
+msgid "You can get latitude and longitude values here"
+msgstr ""
+
+#: modules/shortcode/collection/map/google.php:33
+msgid "Zoom"
+msgstr ""
+
+#: modules/shortcode/collection/map/google.php:49
+msgid "Full screen text"
+msgstr ""
+
+#: modules/shortcode/collection/post/tiles.php:29
+#: modules/shortcode/collection/post/tiles.php:106
+msgid "All"
+msgstr ""
+
+#: modules/shortcode/collection/post/tiles.php:40
+msgid "Show filter"
+msgstr ""
+
+#: modules/shortcode/configs/groups.php:4
+msgid "Layout"
+msgstr ""
+
+#: modules/shortcode/configs/groups.php:5
+msgid "Elements"
+msgstr ""
+
+#: modules/shortcode/configs/groups.php:6
+msgid "Sections"
+msgstr ""
+
+#: modules/shortcode/configs/groups.php:7
+msgid "Sliders  &amp; Carousels "
+msgstr ""
+
+#: modules/shortcode/configs/groups.php:8
+msgid "Portfolio"
+msgstr ""
+
+#: modules/shortcode/configs/groups.php:9
+msgid "Media"
+msgstr ""
+
+#: modules/shortcode/configs/groups.php:14
+msgid "WooCommerce"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:5
+msgid "Dummy shortcode"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:10
+msgid "Break line"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:15
+msgid "Non-breakable space"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:25
+msgid "Contact form 7"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:30
+msgid "Container"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:35
+msgid "Column"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:40
+msgid "Separator"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:50
+msgid "Button"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:60
+msgid "Authors"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:65
+msgid "Posts Tiles"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:70
+msgid "Items carousel"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:75
+msgid "Content carousel"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:80
+msgid "Gallery"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:85
+msgid "Aisconcerse Icons"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:90
+msgid "Fontawesome Icons"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:95
+msgid "Years chronology"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:101
+msgid "Counter"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:111
+msgid "Google Map"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:116
+msgid "Pricing Table"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:131
+msgid "Quote"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:136
+msgid "Taxonomy name"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:141
+msgid "Author name"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:146
+msgid "Search request"
+msgstr ""
+
+#: modules/shortcode/configs/shortcodes.php:151
+msgid "Featured image"
+msgstr ""
+
+#: modules/shortcode/panel.php:16
+msgid "Shortcodes"
+msgstr ""
+
+#: modules/shortcode/panel.php:28
+msgid "Click to close"
+msgstr ""
+
+#: modules/shortcode/shortcode.php:18
+msgid "Name is not defined"
+msgstr ""
+
+#: modules/theme/theme.php:94
+msgid ""
+"No WordPress Theme Customizer support - If needed check your functions.php"
+msgstr ""
+
+#: modules/user/user/login.php:50
+msgid "Log out of this account"
+msgstr ""
+
+#: modules/user/user/login.php:50
+msgid "Log out"
+msgstr ""
+
+#: modules/user/user/login.php:51
+#, php-format
+msgid "You are currently logged in as %1$s. %2$s"
+msgstr ""
+
+#: modules/user/user/login.php:59
+msgid "Log In"
+msgstr ""
+
+#: modules/user/user/login.php:69 modules/user/user/register.php:89
+msgid ""
+"Sorry, something sent wrong and we can not complete registration. Please, "
+"try later."
+msgstr ""
+
+#: modules/user/user/login.php:91
+msgid "Username or email"
+msgstr ""
+
+#: modules/user/user/login.php:100
+msgid "Password"
+msgstr ""
+
+#: modules/user/user/login.php:114
+msgid "Remember me"
+msgstr ""
+
+#: modules/user/user/login.php:121
+msgid "Log in"
+msgstr ""
+
+#: modules/user/user/login.php:131
+msgid "Lost password?"
+msgstr ""
+
+#: modules/user/user/login.php:152
+msgid "Form data is expired. Reload the page and try again, please."
+msgstr ""
+
+#: modules/user/user/login.php:163
+msgid "Username or email are required."
+msgstr ""
+
+#: modules/user/user/login.php:168
+msgid "Password is required."
+msgstr ""
+
+#: modules/user/user/login.php:191
+msgid "Sorry, the username you entered is incorrect. Try again, please."
+msgstr ""
+
+#: modules/user/user/login.php:195
+msgid "Sorry, the password you entered is incorrect. Try again, please."
+msgstr ""
+
+#: modules/user/user/password.php:38
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: modules/user/user/password.php:38
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: modules/user/user/password.php:39
+msgid "Sorry, the user with login or email you provided wasn't found."
+msgstr ""
+
+#: modules/user/user/password.php:40
+msgid "Sorry, your request didn't pass a security check."
+msgstr ""
+
+#: modules/user/user/password.php:41
+msgid "Sorry, it is not allowed to reset password."
+msgstr ""
+
+#: modules/user/user/password.php:42
+msgid "Sorry, undefined error occured"
+msgstr ""
+
+#: modules/user/user/password.php:45
+msgid "To reset your password use the link from letter sent to your email"
+msgstr ""
+
+#: modules/user/user/password.php:81
+msgid "Username or E-mail:"
+msgstr ""
+
+#: modules/user/user/password.php:112 modules/user/user/password.php:141
+msgid ""
+"Sorry, the link data is broken. Try to request new password reset link, "
+"please."
+msgstr ""
+
+#: modules/user/user/password.php:113
+msgid "Fill poth password fields, please."
+msgstr ""
+
+#: modules/user/user/password.php:114
+msgid "Passwords you've entered are not identical."
+msgstr ""
+
+#: modules/user/user/password.php:117
+msgid "Your password is successfully changed."
+msgstr ""
+
+#: modules/user/user/password.php:165
+msgid "New password:"
+msgstr ""
+
+#: modules/user/user/password.php:172
+msgid "Repeat password:"
+msgstr ""
+
+#: modules/user/user/password.php:256
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: modules/user/user/password.php:258
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: modules/user/user/password.php:259 modules/user/user/register.php:217
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: modules/user/user/password.php:260
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: modules/user/user/password.php:269 modules/user/user/register.php:223
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: modules/user/user/register.php:46
+msgid "Sorry, the link data is not correct. Please, try to register again."
+msgstr ""
+
+#: modules/user/user/register.php:50
+msgid ""
+"Sorry, it seems your activation is expired. Please, try to register again."
+msgstr ""
+
+#: modules/user/user/register.php:52
+msgid "Sorry, email is not correct. Please, try to register again."
+msgstr ""
+
+#: modules/user/user/register.php:54
+msgid ""
+"Sorry, email is already exists. Please, try to register again with another "
+"email."
+msgstr ""
+
+#: modules/user/user/register.php:56
+msgid ""
+"Sorry, username is already exists. Please, try to register again with "
+"another username."
+msgstr ""
+
+#: modules/user/user/register.php:79
+msgid ""
+"Sorry, something went wrong on user creation. Please, try to register again "
+"with another username."
+msgstr ""
+
+#: modules/user/user/register.php:81
+msgid ""
+"Your account is activated! Use your email or username and a password you've "
+"entered"
+msgstr ""
+
+#: modules/user/user/register.php:91
+msgid "Check you email to activate you account, please."
+msgstr ""
+
+#: modules/user/user/register.php:122
+msgid "User name"
+msgstr ""
+
+#: modules/user/user/register.php:132
+msgid "Email"
+msgstr ""
+
+#: modules/user/user/register.php:143
+msgid "Register"
+msgstr ""
+
+#: modules/user/user/register.php:170
+msgid "Error from filter."
+msgstr ""
+
+#: modules/user/user/register.php:179
+msgid "Username is required."
+msgstr ""
+
+#: modules/user/user/register.php:183
+msgid "Username exists."
+msgstr ""
+
+#: modules/user/user/register.php:186
+msgid "Email is required."
+msgstr ""
+
+#: modules/user/user/register.php:188
+msgid "Enter valid email."
+msgstr ""
+
+#: modules/user/user/register.php:190
+msgid "Email exists."
+msgstr ""
+
+#: modules/user/user/register.php:216
+#, php-format
+msgid "You have registered to \"%s\" website"
+msgstr ""
+
+#: modules/user/user/register.php:218
+msgid "Username: your email or login name you have entered"
+msgstr ""
+
+#: modules/user/user/register.php:219
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: modules/user/user/register.php:220
+msgid "To activate your account, visit the following address:"
+msgstr ""
+
+#: modules/widgets/collection/latest/tiles/tiles.php:10
+msgid "Basement latest items tiles"
+msgstr ""
+
+#: modules/widgets/collection/latest/tiles/tiles.php:11
+msgid "Latest items tiles of post type"
+msgstr ""
+
+#: modules/widgets/collection/latest/tiles/tiles.php:108
+#: modules/widgets/collection/text/text.php:66
+msgid "Title link"
+msgstr ""
+
+#: modules/widgets/collection/latest/tiles/tiles.php:136
+msgid "Post type"
+msgstr ""
+
+#: modules/widgets/collection/latest/tiles/tiles.php:149
+msgid "Count"
+msgstr ""
+
+#: modules/widgets/collection/text/text.php:10
+msgid "Basement simple text"
+msgstr ""
+
+#: modules/widgets/collection/text/text.php:11
+msgid "A simple text widget with header"
+msgstr ""
+
+#: views/theme-settings.php:8
+msgid "Basement: theme settings"
+msgstr ""
